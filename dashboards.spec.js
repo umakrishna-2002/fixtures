@@ -23,4 +23,5 @@ test('verfying ENgineer dashboars', async ({ authenticatedPage }) => {
 
 /* You can create a single file or multiple file targeting different dashboards. If you have "workers:4"
 set your <b>playwright.config.js</b>, playwright will spin up 4 workers and crush through these tests concurrently.  
+*/
 
